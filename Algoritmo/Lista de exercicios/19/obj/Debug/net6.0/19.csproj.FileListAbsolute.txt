@@ -1,0 +1,15 @@
+V:\Fatec\Algoritmo\Exercicios\19\bin\Debug\net6.0\19.exe
+V:\Fatec\Algoritmo\Exercicios\19\bin\Debug\net6.0\19.deps.json
+V:\Fatec\Algoritmo\Exercicios\19\bin\Debug\net6.0\19.runtimeconfig.json
+V:\Fatec\Algoritmo\Exercicios\19\bin\Debug\net6.0\19.dll
+V:\Fatec\Algoritmo\Exercicios\19\bin\Debug\net6.0\19.pdb
+V:\Fatec\Algoritmo\Exercicios\19\obj\Debug\net6.0\19.csproj.AssemblyReference.cache
+V:\Fatec\Algoritmo\Exercicios\19\obj\Debug\net6.0\19.GeneratedMSBuildEditorConfig.editorconfig
+V:\Fatec\Algoritmo\Exercicios\19\obj\Debug\net6.0\19.AssemblyInfoInputs.cache
+V:\Fatec\Algoritmo\Exercicios\19\obj\Debug\net6.0\19.AssemblyInfo.cs
+V:\Fatec\Algoritmo\Exercicios\19\obj\Debug\net6.0\19.csproj.CoreCompileInputs.cache
+V:\Fatec\Algoritmo\Exercicios\19\obj\Debug\net6.0\19.dll
+V:\Fatec\Algoritmo\Exercicios\19\obj\Debug\net6.0\refint\19.dll
+V:\Fatec\Algoritmo\Exercicios\19\obj\Debug\net6.0\19.pdb
+V:\Fatec\Algoritmo\Exercicios\19\obj\Debug\net6.0\19.genruntimeconfig.cache
+V:\Fatec\Algoritmo\Exercicios\19\obj\Debug\net6.0\ref\19.dll

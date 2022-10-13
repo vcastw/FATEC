@@ -1,0 +1,15 @@
+D:\Fatec\Algoritmo\Exercicios\21\bin\Debug\net7.0\21.exe
+D:\Fatec\Algoritmo\Exercicios\21\bin\Debug\net7.0\21.deps.json
+D:\Fatec\Algoritmo\Exercicios\21\bin\Debug\net7.0\21.runtimeconfig.json
+D:\Fatec\Algoritmo\Exercicios\21\bin\Debug\net7.0\21.dll
+D:\Fatec\Algoritmo\Exercicios\21\bin\Debug\net7.0\21.pdb
+D:\Fatec\Algoritmo\Exercicios\21\obj\Debug\net7.0\21.csproj.AssemblyReference.cache
+D:\Fatec\Algoritmo\Exercicios\21\obj\Debug\net7.0\21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Algoritmo\Exercicios\21\obj\Debug\net7.0\21.AssemblyInfoInputs.cache
+D:\Fatec\Algoritmo\Exercicios\21\obj\Debug\net7.0\21.AssemblyInfo.cs
+D:\Fatec\Algoritmo\Exercicios\21\obj\Debug\net7.0\21.csproj.CoreCompileInputs.cache
+D:\Fatec\Algoritmo\Exercicios\21\obj\Debug\net7.0\21.dll
+D:\Fatec\Algoritmo\Exercicios\21\obj\Debug\net7.0\refint\21.dll
+D:\Fatec\Algoritmo\Exercicios\21\obj\Debug\net7.0\21.pdb
+D:\Fatec\Algoritmo\Exercicios\21\obj\Debug\net7.0\21.genruntimeconfig.cache
+D:\Fatec\Algoritmo\Exercicios\21\obj\Debug\net7.0\ref\21.dll

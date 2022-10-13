@@ -1,0 +1,15 @@
+D:\Fatec\Algoritmo\Lista de exercicios\48\bin\Debug\net7.0\48.exe
+D:\Fatec\Algoritmo\Lista de exercicios\48\bin\Debug\net7.0\48.deps.json
+D:\Fatec\Algoritmo\Lista de exercicios\48\bin\Debug\net7.0\48.runtimeconfig.json
+D:\Fatec\Algoritmo\Lista de exercicios\48\bin\Debug\net7.0\48.dll
+D:\Fatec\Algoritmo\Lista de exercicios\48\bin\Debug\net7.0\48.pdb
+D:\Fatec\Algoritmo\Lista de exercicios\48\obj\Debug\net7.0\48.csproj.AssemblyReference.cache
+D:\Fatec\Algoritmo\Lista de exercicios\48\obj\Debug\net7.0\48.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Algoritmo\Lista de exercicios\48\obj\Debug\net7.0\48.AssemblyInfoInputs.cache
+D:\Fatec\Algoritmo\Lista de exercicios\48\obj\Debug\net7.0\48.AssemblyInfo.cs
+D:\Fatec\Algoritmo\Lista de exercicios\48\obj\Debug\net7.0\48.csproj.CoreCompileInputs.cache
+D:\Fatec\Algoritmo\Lista de exercicios\48\obj\Debug\net7.0\48.dll
+D:\Fatec\Algoritmo\Lista de exercicios\48\obj\Debug\net7.0\refint\48.dll
+D:\Fatec\Algoritmo\Lista de exercicios\48\obj\Debug\net7.0\48.pdb
+D:\Fatec\Algoritmo\Lista de exercicios\48\obj\Debug\net7.0\48.genruntimeconfig.cache
+D:\Fatec\Algoritmo\Lista de exercicios\48\obj\Debug\net7.0\ref\48.dll

@@ -1,0 +1,15 @@
+D:\Fatec\Algoritmo\Lista de exercicios\41\bin\Debug\net7.0\41.exe
+D:\Fatec\Algoritmo\Lista de exercicios\41\bin\Debug\net7.0\41.deps.json
+D:\Fatec\Algoritmo\Lista de exercicios\41\bin\Debug\net7.0\41.runtimeconfig.json
+D:\Fatec\Algoritmo\Lista de exercicios\41\bin\Debug\net7.0\41.dll
+D:\Fatec\Algoritmo\Lista de exercicios\41\bin\Debug\net7.0\41.pdb
+D:\Fatec\Algoritmo\Lista de exercicios\41\obj\Debug\net7.0\41.csproj.AssemblyReference.cache
+D:\Fatec\Algoritmo\Lista de exercicios\41\obj\Debug\net7.0\41.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Algoritmo\Lista de exercicios\41\obj\Debug\net7.0\41.AssemblyInfoInputs.cache
+D:\Fatec\Algoritmo\Lista de exercicios\41\obj\Debug\net7.0\41.AssemblyInfo.cs
+D:\Fatec\Algoritmo\Lista de exercicios\41\obj\Debug\net7.0\41.csproj.CoreCompileInputs.cache
+D:\Fatec\Algoritmo\Lista de exercicios\41\obj\Debug\net7.0\41.dll
+D:\Fatec\Algoritmo\Lista de exercicios\41\obj\Debug\net7.0\refint\41.dll
+D:\Fatec\Algoritmo\Lista de exercicios\41\obj\Debug\net7.0\41.pdb
+D:\Fatec\Algoritmo\Lista de exercicios\41\obj\Debug\net7.0\41.genruntimeconfig.cache
+D:\Fatec\Algoritmo\Lista de exercicios\41\obj\Debug\net7.0\ref\41.dll
