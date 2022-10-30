@@ -1,0 +1,15 @@
+D:\Fatec\Algoritmo\Lista de exercicios\45\bin\Debug\net7.0\45.exe
+D:\Fatec\Algoritmo\Lista de exercicios\45\bin\Debug\net7.0\45.deps.json
+D:\Fatec\Algoritmo\Lista de exercicios\45\bin\Debug\net7.0\45.runtimeconfig.json
+D:\Fatec\Algoritmo\Lista de exercicios\45\bin\Debug\net7.0\45.dll
+D:\Fatec\Algoritmo\Lista de exercicios\45\bin\Debug\net7.0\45.pdb
+D:\Fatec\Algoritmo\Lista de exercicios\45\obj\Debug\net7.0\45.csproj.AssemblyReference.cache
+D:\Fatec\Algoritmo\Lista de exercicios\45\obj\Debug\net7.0\45.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Algoritmo\Lista de exercicios\45\obj\Debug\net7.0\45.AssemblyInfoInputs.cache
+D:\Fatec\Algoritmo\Lista de exercicios\45\obj\Debug\net7.0\45.AssemblyInfo.cs
+D:\Fatec\Algoritmo\Lista de exercicios\45\obj\Debug\net7.0\45.csproj.CoreCompileInputs.cache
+D:\Fatec\Algoritmo\Lista de exercicios\45\obj\Debug\net7.0\45.dll
+D:\Fatec\Algoritmo\Lista de exercicios\45\obj\Debug\net7.0\refint\45.dll
+D:\Fatec\Algoritmo\Lista de exercicios\45\obj\Debug\net7.0\45.pdb
+D:\Fatec\Algoritmo\Lista de exercicios\45\obj\Debug\net7.0\45.genruntimeconfig.cache
+D:\Fatec\Algoritmo\Lista de exercicios\45\obj\Debug\net7.0\ref\45.dll
