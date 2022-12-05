@@ -1,0 +1,15 @@
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\bin\Debug\net7.0\76.exe
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\bin\Debug\net7.0\76.deps.json
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\bin\Debug\net7.0\76.runtimeconfig.json
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\bin\Debug\net7.0\76.dll
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\bin\Debug\net7.0\76.pdb
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\obj\Debug\net7.0\76.csproj.AssemblyReference.cache
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\obj\Debug\net7.0\76.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\obj\Debug\net7.0\76.AssemblyInfoInputs.cache
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\obj\Debug\net7.0\76.AssemblyInfo.cs
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\obj\Debug\net7.0\76.csproj.CoreCompileInputs.cache
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\obj\Debug\net7.0\76.dll
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\obj\Debug\net7.0\refint\76.dll
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\obj\Debug\net7.0\76.pdb
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\obj\Debug\net7.0\76.genruntimeconfig.cache
+C:\Users\vcast\OneDrive\Documentos\FATEC\Algoritmo\Lista de exercicios\76\obj\Debug\net7.0\ref\76.dll
